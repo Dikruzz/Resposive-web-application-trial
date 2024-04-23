@@ -1,4 +1,4 @@
-# Resposive-web-application-trial
+# Resposive-web-application
 
 #Home-page
 ![image](https://github.com/Dikruzz/Resposive-web-application-trial/assets/69112022/dc7e6424-8260-4440-b9fd-dc88c83b923d)
